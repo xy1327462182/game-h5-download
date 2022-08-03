@@ -1,0 +1,23 @@
+// 繁体中文
+module.exports = {
+  lang: "繁体中文",
+  scanToDownloadApp: "請使用手機掃描二維碼前往下載應用",
+  download: "應用下載",
+  langChange: "切換語言",
+  languageChangeSucceeded: "語言切換成功",
+  checkForDetails: "查看詳情",
+  welcomeTo: "歡迎來到",
+  weAutoRegisterForYou: "我們已為你自動注册了帳號",
+  visitImmediately: "立即訪問",
+  thanksForYourFeedback: "謝謝你的反饋",
+  myFiles: "我的資料",
+  recommendAppToFriend: "推薦應用給好友",
+  InviteOrScanLinkToFriend: "邀請好友掃描二維碼或複製網址發送給好友",
+  linkCopySucceeded: "網址複製成功",
+  feedback: "意見反饋",
+  pleaseFillYourComment: "請填寫你的建議或意見",
+  submitFeedback: "提交反饋",
+  businessCooperation: "商務合作",
+  helpCenter: "幫助中心",
+  anyQuestionsPleaseSeeHelpBelow: "使用過程如有疑問，請查看下列幫助",
+};

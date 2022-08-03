@@ -1,0 +1,7 @@
+$bg-color: #002948;
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  bgColor: $bg-color;
+}

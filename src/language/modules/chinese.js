@@ -1,0 +1,23 @@
+// 简体中文
+module.exports = {
+  lang: "简体中文",
+  scanToDownloadApp: "请使用手机扫描二维码前往下载应用",
+  download: "下载",
+  langChange: "切换语言",
+  languageChangeSucceeded: "语言切换成功",
+  checkForDetails: "查看详情",
+  welcomeTo: "欢迎来到",
+  weAutoRegisterForYou: "我们已为你自动注册了账号",
+  visitImmediately: "立即访问",
+  thanksForYourFeedback: "谢谢你的反馈",
+  myFiles: "我的资料",
+  recommendAppToFriend: "推荐应用给好友",
+  InviteOrScanLinkToFriend: "邀请好友扫描二维码或复制链接发送给好友",
+  linkCopySucceeded: "链接复制成功",
+  feedback: "意见反馈",
+  pleaseFillYourComment: "请填写你的建议或意见",
+  submitFeedback: "提交反馈",
+  businessCooperation: "商务合作",
+  helpCenter: "帮助中心",
+  anyQuestionsPleaseSeeHelpBelow: "使用过程如有疑问，请查看下列帮助",
+};
